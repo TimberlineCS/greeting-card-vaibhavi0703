@@ -2,7 +2,7 @@
 
 * Author: vaibhavi
 * Class: ap computer science class period 1 
-* Semester: Spring 2023
+* Semester: 1
 
 ## Overview
 
