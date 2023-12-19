@@ -1,4 +1,4 @@
-# Project 1: Marshmallow Animation
+# Project 1: greeting card
 
 * Author: vaibhavi
 * Class: ap computer science class period 1 
