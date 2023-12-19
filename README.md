@@ -1,34 +1,48 @@
-# Greeting Card
+# Project 1: Marshmallow Animation
 
-## Project Overview
-In this project you will apply JavaScript to the DOM to create a greeting card on an HTML page.  
+* Author: vaibhavi
+* Class: ap computer science class period 1 
+* Semester: Spring 2023
 
-## Objectives
+## Overview
 
-- [ ] Create HTML elements
-- [ ] Use JavaScript to manipulate HTML elements
-- [ ] Use variables to manage data
+This Java application displays a greeting card  for chirstmas. this card has a snowman, a christmas tree and music
 
-## Specifications
+## Compiling and Using
 
-Create a Greeting Card on an HTML page.  Your Greeting Card should include at least 10 different HTML elements.  You must use JavaScript (only) to create and manipulate your elements in such a way that they come together to clearly resemble a picture.   Your Greeting Card should include a variety of colors (at least 5), text, an image, and music. 
-
-## Your Tasks
-
-- [ ] Locate the index.html page.  Here you will create the basic elements for your page.  You must include at least 10 different elements. 
-- [ ] Locate the App.js file.  Write code to manipulate the elements on your index.html page
-- [ ] Include music with your GreetingCard.  Below is an example of how to do this, 
-
+To compile, execute the following command in the main project directory:
 ```
-var au = new Audio("Music/AllIWantForChristmas.mp3");
-au.controls = true;
-document.body.appendChild(au);
+$ javac Greeting Card.java
 ```
 
-- [ ] Document your code thoroughly as you go with comments
-- [ ] Complete the required README using specified guidelines
+Run the compiled class with the command:
+```
+$ java Greeting Card
+```
 
-## Grade your project before you submit
 
-- [ ] Before you submit your project, grade your project against the criteria below. 
-	[Rubric.md](Rubric.md)
+## Discussion
+
+I started this project pretty late because I was really confused and I didnt know how to start my code. then I read the pdf for this project because i didnt really pay attention to the class.I was to busy completing my notes.so I started my code.First I made my background.
+
+I wanted it to be hot pink but the color wasnt working at all. so I went to google and tried to hex color code but that wasnt working at all. so I decided to go with blue.the blue Iwanted was supposesd to be light blue but the light was rrally bad so I tried for turquoise. and it did work.wheni went o fire fox to see if my code worked ot not. it didnt so I was really worried and when i went back to my code I saw that my code was wrong.I forgot to append it.
+
+After I made my bcakground I wanted to kind of text on my greeting card so I decided to add "merry Christmas" and I made in red color to macth the christmas vibe. Then I saw one of my friend added a background to the text to i decided to also add a background because it was really pretty.I made my background green color to make it more christmasy.
+
+Then I was thinking to make a snowman. so I started making a small circle in white color. Then I decied to plae it on the right side of my screen.then for the body I copy pasted the same ode as the head of the snowman and I changed my position and and the size of my snowman. and thats how I made my snowman body. then I satrted writing a code for the eyes for my snowman. that was pretty easy cause I took the same code as a head then i changed the color, the raduis and also the position.
+
+The I made 3 bottons for my snowman to make it look pretty. then I tried to make a top hat which took a while because I didnt knw the steps to write a code for the square but I eventually figured it out.
+
+then I wrote a code for a polygon and I made 3 polygons. that was hard to position them. then i decied to make ornaments for my christmas tree. It was a lot of work and I deeid to make it in color full so it took a alot of time but it was worth it.
+
+Then I had to add the song. I tried so hard to do it but it wanst working at all.I asked all of my friends to help me then one of them figured it out. there was a tying error. I made a mistake on spelling.
+
+In the last I wanted to add a image or a gif to complete my last requirment . so i deceid to add snow flake gif. that was really easy.
+
+## Extra Credit
+
+I have 36 elements on my greeting card so I think I deserve few extra credit.
+## Sources used
+
+for the snowflakes I used "FallingSnowTransparent.gif"
+ and for music I used "AllIWantForChristmas.mp3"
