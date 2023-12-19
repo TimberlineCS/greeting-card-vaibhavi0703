@@ -14,6 +14,7 @@ background.style.backgroundColor = "turquoise";//Sets the background to a shade 
 background.style.width = "100%";
 background.style.height = "500px"
 document.body.append(background);
+//this is the turquise background
 
 
 var text = document.createElement("h1");
@@ -23,6 +24,7 @@ text.style.background = "green";
 text.style.textAlign = "center";
 text.style.fontFamily = "cursive"
 background.append(text)
+//i made my text merry christmas as my heading
 
 var head = document.createElement("div");
 head.style.height = "100px";
@@ -34,6 +36,7 @@ head.style.position = "absolute";
 head.style.bottom = "345px";
 head.style.right = "150px";
 document.body.append(head);
+//this is the head for my snowman
 
 var head1 = document.createElement("div");
 head1.style.height = "200px";
@@ -45,6 +48,7 @@ head1.style.position = "absolute";
 head1.style.bottom = "150px";
 head1.style.right = "94px";
 document.body.append(head1);
+//this is the bosy for my snowman
 
 
 var el = document.createElement("div");
@@ -57,6 +61,7 @@ el.style.position = "absolute";
 el.style.bottom = "400px";
 el.style.right = "220px";
 document.body.append(el);
+//this is the left eye for my snowman
 
 var rl = document.createElement("div");
 rl.style.height = "10px";
@@ -68,6 +73,7 @@ rl.style.position = "absolute";
 rl.style.bottom = "400px";
 rl.style.right = "180px";
 document.body.append(rl);
+//this is my right eye for my snowman
 
 var ll = document.createElement("div");
 ll.style.height = "10px";
@@ -79,6 +85,7 @@ ll.style.position = "absolute";
 ll.style.bottom = "300px";
 ll.style.right = "189px";
 document.body.append(ll);
+//this is my botton on my snowman
 
 var sl = document.createElement("div");
 sl.style.height = "10px";
@@ -90,6 +97,7 @@ sl.style.position = "absolute";
 sl.style.bottom = "250px";
 sl.style.right = "189px";
 document.body.append(sl);
+//this is another botton for my snowman
 
 var ml = document.createElement("div");
 ml.style.height = "10px";
@@ -101,6 +109,7 @@ ml.style.position = "absolute";
 ml.style.bottom = "200px";
 ml.style.right = "189px";
 document.body.append(ml);
+//this is one more botton for my snowman
 
 var scarf = document.createElement(scarf);
 scarf.style.backgroundColor = "pink";
@@ -110,6 +119,7 @@ scarf.style.position = "absolute";
 scarf.style.bottom = "345px";
 scarf.style.right = "165px";
 document.body.append(scarf)
+//i made a scarf for my snowman
 
 var hehe = document.createElement(hehe);
 hehe.style.backgroundColor = "pink";
@@ -119,6 +129,7 @@ hehe.style.position = "absolute";
 hehe.style.bottom = "300px";
 hehe.style.right = "165px";
 document.body.append(hehe)
+//this is the other part of the snowman
 
 var hat = document.createElement(hat);
 hat.style.backgroundColor = "black";
@@ -128,6 +139,7 @@ hat.style.position = "absolute";
 hat.style.bottom = "440px";
 hat.style.right = "169px";
 document.body.append(hat)
+//i made a top hat for my snowman. this is the code for the top part
 
 var haha = document.createElement(haha);
 haha.style.backgroundColor = "black";
@@ -137,7 +149,7 @@ haha.style.position = "absolute";
 haha.style.bottom = "440px";
 haha.style.right = "178px";
 document.body.append(haha)
-
+//this code is for the bottom part for of the top hat for the snowman
 
 
 var div1 = document.createElement("div"); 
@@ -151,6 +163,7 @@ div2.style.position = "relative";
 div2.style.margin = "0 auto" 
 document.body.append(div1); 
 div1.append(div2)
+//i made a create design
 
 var triangle = document.createElement("div"); 
 triangle.style.border = "green solid 50px"; 
@@ -164,6 +177,7 @@ triangle.style.position = "absolute";
 triangle.style.bottom = "365px";
 triangle.style.left  ="100px"
 document.body.append(triangle); 
+//I decided to make a chritmas tree so this is the first part
 
 var triangle1 = document.createElement("div"); 
 triangle1.style.border = "green solid 50px"; 
@@ -177,6 +191,7 @@ triangle1.style.position = "absolute";
 triangle1.style.bottom = "305px";
 triangle1.style.left  ="96px"
 document.body.append(triangle1); 
+//thos is the 2nd part for the christmas tree
 
 var triangle2 = document.createElement("div"); 
 triangle2.style.border = "green solid 50px"; 
@@ -190,6 +205,7 @@ triangle2.style.position = "absolute";
 triangle2.style.bottom = "240px";
 triangle2.style.left  ="94px"
 document.body.append(triangle2); 
+//this is the bottom and the last part for the green part of the christmas tree
 
 var trunk = document.createElement("div");
 trunk.style.backgroundColor = "brown";
@@ -199,6 +215,7 @@ trunk.style.position = "absolute";
 trunk.style.bottom = "190px";
 trunk.style.left = "147px";
 document.body.append(trunk)
+//i made a brown color for christmas tree
 
 var o1 = document.createElement("div");
 o1.style.height = "10px";
@@ -210,6 +227,7 @@ o1.style.position = "absolute";
 o1.style.bottom = "315px";
 o1.style.left = "190px";
 document.body.append(o1);
+//this is an ornament for the christmas tree
 
 
 var o2 = document.createElement("div");
@@ -222,6 +240,7 @@ o2.style.position = "absolute";
 o2.style.bottom = "340px";
 o2.style.left = "150px";
 document.body.append(o2);
+//this is an ornament for the christmas tree
 
 var o3 = document.createElement("div");
 o3.style.height = "10px";
@@ -233,6 +252,7 @@ o3.style.position = "absolute";
 o3.style.bottom = "250px";
 o3.style.left = "180px";
 document.body.append(o3);
+//this is an ornament for the christmas tree
 
 var o4 = document.createElement("div");
 o4.style.height = "10px";
@@ -244,6 +264,7 @@ o4.style.position = "absolute";
 o4.style.bottom = "388px";
 o4.style.left = "145px";
 document.body.append(o4);
+//this is an ornament for the christmas tree
 
 var o6 = document.createElement("div");
 o6.style.height = "10px";
@@ -255,6 +276,7 @@ o6.style.position = "absolute";
 o6.style.bottom = "255px";
 o6.style.left = "120px";
 document.body.append(o6);
+//this is an ornament for the christmas tree
 
 var o5 = document.createElement("div");
 o5.style.height = "10px";
@@ -266,6 +288,7 @@ o5.style.position = "absolute";
 o5.style.bottom = "310px";
 o5.style.left = "110px";
 document.body.append(o5);
+//this is an ornament for the christmas tree
 
 var o7 = document.createElement("div");
 o7.style.height = "10px";
@@ -277,6 +300,7 @@ o7.style.position = "absolute";
 o7.style.bottom = "290px";
 o7.style.left = "150px";
 document.body.append(o7);
+//this is an ornament for the christmas tree
 
 var o8 = document.createElement("div");
 o8.style.height = "10px";
@@ -288,6 +312,7 @@ o8.style.position = "absolute";
 o8.style.bottom = "368px";
 o8.style.left = "190px";
 document.body.append(o8);
+//this is an ornament for the christmas tree
 
 var o9 = document.createElement("div");
 o9.style.height = "10px";
@@ -299,6 +324,7 @@ o9.style.position = "absolute";
 o9.style.bottom = "359px";
 o9.style.left = "110px";
 document.body.append(o9);
+//this is an ornament for the christmas tree
 
 var oq = document.createElement("div");
 oq.style.height = "10px";
@@ -310,6 +336,7 @@ oq.style.position = "absolute";
 oq.style.bottom = "410px";
 oq.style.left = "180px";
 document.body.append(oq);
+//this is an ornament for the christmas tree
 
 var oa = document.createElement("div");
 oa.style.height = "10px";
@@ -321,6 +348,7 @@ oa.style.position = "absolute";
 oa.style.bottom = "389px";
 oa.style.left = "1083px";
 document.body.append(oa);
+//this is an ornament for the christmas tree
 
 var oo = document.createElement("div");
 oo.style.height = "10px";
@@ -332,6 +360,7 @@ oo.style.position = "absolute";
 oo.style.bottom = "455px";
 oo.style.left = "168px";
 document.body.append(oo);
+//this is an ornament for the christmas tree
 
 var op = document.createElement("div");
 op.style.height = "10px";
@@ -343,6 +372,7 @@ op.style.position = "absolute";
 op.style.bottom = "425px";
 op.style.left = "128px";
 document.body.append(op);
+//this is an ornament for the christmas tree
 
 var ob = document.createElement("div");
 ob.style.height = "10px";
@@ -354,6 +384,7 @@ ob.style.position = "absolute";
 ob.style.bottom = "469px";
 ob.style.left = "139px";
 document.body.append(ob);
+//this is an ornament for the christmas tree
 
 var ox = document.createElement("div");
 ox.style.height = "10px";
@@ -365,6 +396,7 @@ ox.style.position = "absolute";
 ox.style.bottom = "510px";
 ox.style.left = "150px";
 document.body.append(ox);
+//this is an ornament for the christmas tree
 
 var text2 = document.createElement("h1");
 text2.innerHTML = "“Just remember, the true spirit of Christmas lies in your heart.”";
@@ -372,6 +404,7 @@ text2.style.color = "black";
 text2.style.textAlign = "center";
 text2.style.fontFamily = "cursive"
 background.append(text2)
+//this is one more text on my greeting card
 
 var au = new Audio("Music/AllIWantForChristmas.mp3");
 au.controls = true;
@@ -380,6 +413,7 @@ au.style.bottom = "45px";
 au.style.right = "10px";
 au.style.zIndex = 5;
 document.body.append(au);
+//this is the music 
 
 var snow = document.createElement("img");
 snow.src = "Images/FallingSnowTransparent.gif";
@@ -389,6 +423,9 @@ snow.style.position = "absolute";
 snow.style.top = "0";
 snow.style.left = "0"
 document.body.append(snow);
+//this is the gif of snowflakes 
+
+
 
 
 

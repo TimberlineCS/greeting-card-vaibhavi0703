@@ -42,6 +42,7 @@ In the last I wanted to add a image or a gif to complete my last requirment . so
 ## Extra Credit
 
 I have 36 elements on my greeting card so I think I deserve few extra credit.
+and I  have way more than 5 colors on my greeting card
 ## Sources used
 
 for the snowflakes I used "FallingSnowTransparent.gif"
